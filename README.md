@@ -13,4 +13,4 @@ What software you need to install to use this app
 
 **Authors**
 
-***Rival Ibragimov -- Tri3xFox***
+***Rival Ibragimov - Tri3xFox***
